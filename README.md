@@ -58,7 +58,5 @@ This real-world data is looking for 3 answers:
 ![alt text](https://github.com/mrbalikci/data-insights-SQL/blob/master/sql.gif)
 
 # Tools Used 
-* Python
-* Pandas
-* Matplotlib
+* mySQL
 
